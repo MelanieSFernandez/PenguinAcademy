@@ -1,0 +1,6 @@
+def cuadrado_lista(recibo):
+    for numero in recibo:
+        
+        print(numero)
+cuadrado_lista([1,2,3,4])
+
